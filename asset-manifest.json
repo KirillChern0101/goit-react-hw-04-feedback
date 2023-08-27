@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/KirillChern0101.github.io/goit-react-hw-04-feedback/static/css/main.9df2ae95.css",
-    "main.js": "/KirillChern0101.github.io/goit-react-hw-04-feedback/static/js/main.02ad524c.js",
+    "main.js": "/KirillChern0101.github.io/goit-react-hw-04-feedback/static/js/main.583331d5.js",
     "index.html": "/KirillChern0101.github.io/goit-react-hw-04-feedback/index.html",
     "main.9df2ae95.css.map": "/KirillChern0101.github.io/goit-react-hw-04-feedback/static/css/main.9df2ae95.css.map",
-    "main.02ad524c.js.map": "/KirillChern0101.github.io/goit-react-hw-04-feedback/static/js/main.02ad524c.js.map"
+    "main.583331d5.js.map": "/KirillChern0101.github.io/goit-react-hw-04-feedback/static/js/main.583331d5.js.map"
   },
   "entrypoints": [
     "static/css/main.9df2ae95.css",
-    "static/js/main.02ad524c.js"
+    "static/js/main.583331d5.js"
   ]
 }
