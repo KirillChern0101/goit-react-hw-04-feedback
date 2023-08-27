@@ -1,0 +1,67 @@
+.feedbackBtn {
+  display: inline-flex;
+}
+
+.feedbackBtn {
+  align-items: center;
+  background-color: #fff;
+  border: 4px solid #000;
+  border-radius: 20px;
+  box-sizing: border-box;
+  color: #000;
+  cursor: pointer;
+  display: inline-flex;
+  fill: #000;
+  font-family: Inter, sans-serif;
+  font-size: 16px;
+  font-weight: 600;
+  height: 48px;
+  justify-content: center;
+  letter-spacing: -0.8px;
+  line-height: 24px;
+  min-width: 140px;
+  padding: 0 17px;
+  text-align: center;
+  text-decoration: none;
+  transition: all 0.3s;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+}
+
+.feedbackBtn:focus {
+  color: #171e29;
+}
+
+.feedbackBtn:hover {
+  border-color: #06f;
+  color: #fff;
+  background: linear-gradient(to bottom, #06f, #00bcd4);
+  fill: #fff;
+}
+
+.feedbackBtn:active {
+  border-color: #06f;
+  background: linear-gradient(to bottom, #00bcd4, #06f);
+  color: #fff;
+  fill: #fff;
+}
+.feedbackBtn {
+  transition: all 0.3s ease-in-out;
+}
+
+.feedbackBtn:hover {
+  transition: all 0.3s ease-in-out, background 0.2s ease-in-out 0.2s;
+}
+.feedbackBtn:active {
+  transition: all 0.3s ease-in-out, background 0.2s ease-in-out;
+}
+.feedbackBtn:nth-of-type(even) {
+  margin: auto 5rem;
+}
+
+@media (min-width: 768px) {
+  .feedbackBtn {
+    min-width: 170px;
+  }
+}
